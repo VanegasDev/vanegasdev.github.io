@@ -22,7 +22,9 @@ Then visit `http://localhost:8000`.
 
 ## Replace before publishing
 
-- `hello@example.com`
+- `mvanegasdev@gmail.com`
+- `https://www.linkedin.com/in/vanegasdev`
+- `https://github.com/VanegasDev`
 - LinkedIn URL
 - GitHub URL
 - Project case-study links
